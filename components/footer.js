@@ -70,7 +70,10 @@ background: rgba(26, 32, 44, 0.9);
               <i data-feather="github"></i>
               <span>GitHub</span>
             </a>
-<a href="mailto:viveksundaresha@gmail.com" aria-label="Mail" rel="noopener noreferrer">
+<a href="mailto:viveksundaresha@gmail.com" class="flex items-center gap-2 hover:text-blue-400" aria-label="Email">
+  <i data-feather="mail"></i><span>Email</span>
+</a>
+
 <i data-feather="mail"></i>
               <span class="sr-only">Email</span>
             </a>
